@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cursor": "^0.1.5",
+    "discord": "^0.8.2",
+    "discord.js": "^14.26.4",
+    "dotenv": "^17.4.2",
+    "node.js": "^0.0.1-security"
+  }
+}

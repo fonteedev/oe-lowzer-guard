@@ -1,0 +1,52 @@
+{
+    "token": "bottoken",
+    "log_channel_id": 1507912231407583345,
+    "protections": {
+        "anti_spam": true,
+        "anti_swear": true,
+        "anti_ad": true,
+        "anti_link": true,
+        "anti_caps": true,
+        "anti_bot": true,
+        "channel_protect": true,
+        "category_protect": true,
+        "role_protect": true,
+        "ban_protect": true,
+        "webhook_protect": true,
+        "anti_raid": true,
+        "anti_alt": true
+    },
+    "whitelist": {
+        "users": [
+            292073243324710916
+        ],
+        "roles": []
+    },
+    "actions": {
+        "anti_spam": "delete",
+        "anti_swear": "delete",
+        "anti_ad": "delete",
+        "anti_link": "delete",
+        "anti_caps": "delete",
+        "ban_protect": "kick",
+        "webhook_protect": "ban"
+    },
+    "log_channels": {
+        "1496865419942826117": {
+            "anti_swear": 1507912211777978378,
+            "anti_ad": 1507912213086605483,
+            "anti_link": 1507912214353543269,
+            "anti_caps": 1507912215930474646,
+            "anti_spam": 1507912217159401595,
+            "anti_raid": 1507912218468028477,
+            "anti_alt": 1507912220078637076,
+            "anti_bot": 1507912222578442291,
+            "channel_protect": 1507912223719161946,
+            "category_protect": 1507912224935514224,
+            "role_protect": 1507912226319630347,
+            "ban_protect": 1507912227829710870,
+            "webhook_protect": 1507912229779931157,
+            "general": 1507912231407583345
+        }
+    }
+}
